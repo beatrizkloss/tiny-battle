@@ -20,10 +20,17 @@
 ## Controles
 ```
 🕹️ Movimento: WASD  ou  ⭠⭡⭢⭣
-<br/>
-<br/>
+
+
 🕹️ Batalha: Botão esquerdo do mouse ou Tecla Z.
 ```
+
+## Assets 
+
+[Tiny Swords: Pixel Frog](https://pixelfrog-assets.itch.io/tiny-swords)
+<br/>
+<br/>
+[Kenney´s Particle Pack: by Kenney](https://kenney.nl/assets/particle-pack)
 
 ## Link do projeto
 
