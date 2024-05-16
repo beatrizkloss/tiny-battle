@@ -22,7 +22,8 @@
 🕹️ Movimento: WASD
 
 
-🕹️ Batalha: Botão esquerdo do mouse ou Tecla Z.
+🕹️ Batalha: Botão esquerdo do mouse 
+            ou Tecla Z.
 ```
 
 ## Assets 
