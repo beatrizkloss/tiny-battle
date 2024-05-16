@@ -19,7 +19,7 @@
 
 ## Controles
 ```
-🕹️ Movimento: WASD  ou  ⭠⭡⭢⭣
+🕹️ Movimento: WASD
 
 
 🕹️ Batalha: Botão esquerdo do mouse ou Tecla Z.
