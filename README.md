@@ -1,6 +1,6 @@
 # 👾 Tiny Battle
 
- 🎮 O projeto produzido no Godot, com o intuito educacional.
+ 🎮 Projeto produzido no Godot, com o intuito educacional.
   <br/>
   <br/>
  🖥 Feito na DIO.
